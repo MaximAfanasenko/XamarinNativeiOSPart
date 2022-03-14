@@ -1,3 +1,3 @@
 # XamarinNativeiOSPart
 
-Sample projects of creation native iOS parts for Xamarin application
+Sample projects of creation native iOS (Swift) parts for Xamarin application
