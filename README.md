@@ -2,6 +2,7 @@
 
 Sample projects of creation native iOS (Swift) parts for Xamarin application
 
+![alt text](https://ru.wikipedia.org/wiki/Xamarin#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Xamarin-logo.svg)
 
 AppForDevelopNativeModules - the app project where first things first you develop new native iOS (Swift) modules for integration with Xamarin app.
 
