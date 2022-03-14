@@ -3,7 +3,7 @@ import Foundation
 import UIKit
 
 //after develop here, code must be copied to NativeProxyFramework and inteface to use it
-//must created in NativeProxyFramework.swift (Xamarin developer can do it, not iOS Native)
+//must be created in NativeProxyFramework.swift (Xamarin developer can do it, not iOS Native)
 public class SampleViewController : UIViewController
 {
     private let titleLabel = UILabel()
