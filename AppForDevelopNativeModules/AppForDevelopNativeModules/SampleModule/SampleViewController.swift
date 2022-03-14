@@ -1,8 +1,6 @@
 
 import Foundation
 import UIKit
-import Alamofire
-import AlamofireObjectMapper
 
 //after develop here, code must be copied to NativeProxyFramework and inteface to use it
 //must created in NativeProxyFramework.swift (Xamarin developer can do it, not iOS Native)
